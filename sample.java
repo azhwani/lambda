@@ -1,3 +1,4 @@
+
 interface Hello{  
     public String say();  
 }  
@@ -11,3 +12,4 @@ public class LambdaExample3{
         System.out.println(h.say());  
     }  
 }  
+
