@@ -4,7 +4,7 @@ interface Hello{
 public class LambdaExample3{  
     public static void main(String[] args) {  
         // Interface implementation using lambda expression
-        Hello h=()->{  
+        Hello h = ()->{  
             return "Have a nice day!";  
         }; 
         
